@@ -1,0 +1,88 @@
+/* * {
+  color: rgba(255, 255, 255, 0.87);
+}
+h2 {
+  margin-left: 0.5rem;
+}
+.App {
+  background-color: rgb(12, 162, 207);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  background-color: rgb(8, 60, 109);
+  padding: 20px;
+}
+hr {
+  margin: 0 0.5rem 0.5rem 0.5rem;
+}
+.search {
+  display: flex;
+  align-items: center;
+}
+.search input {
+  padding: 0.5rem;
+  width: 15rem;
+  margin: 0.5rem 0 0.5rem 0.5rem;
+  border-radius: 5px 0 0 5px;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(62, 106, 189, 0.904);
+  width: 2.1rem;
+  height: 2.1rem;
+  margin-left: 0;
+  border-radius: 0px 5px 5px 0;
+}
+.task {
+  padding: 0.6rem;
+  margin: 1rem 0.5rem;
+  background-color: rgba(62, 106, 189, 0.904);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+.mail {
+  background-color: rgba(62, 106, 189, 0.336);
+  padding: 1rem 0.5rem;
+  margin: 1rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+.workout {
+  background-color: rgba(62, 106, 189, 0.336);
+  padding: 1rem 0.5rem;
+  margin: 1rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+.design {
+  background-color: rgba(62, 106, 189, 0.336);
+  padding: 1rem 0.5rem;
+  margin: 1rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+.react {
+  margin: 1rem 0.5rem;
+  background-color: rgba(62, 106, 189, 0.336);
+  padding: 1rem 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+}
+p {
+  font-size: 1rem;
+} */
